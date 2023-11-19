@@ -1,0 +1,13 @@
+DETALLES DE LA APLICACION:
+
+Apartado de insertar pacientes: Seccion donde se agregan los pacientes que en seguida de insertalos pasaran a la seccion de citas. Los campos de peso y altura estan hechos para que puedan recibir numeros con decimales. Ya que tanto el peso como la altura se suelen manejar en (peso: 84.5 KG, altura: 1.80 metros)
+
+Apartado de citas: En esta seccion las citas se ordenan por orden de prioridad segun la fecha, es decir la fecha mas proxima sera la que se acomode primero y asi sucesivamente. TODO se ordena conforme la fecha mas proxima. Y el numero a la izquierda se ajusta en base a la prioridad de igual manera.
+
+Apartado de calculadora IMC: Este apartado fue un extra agregado a la aplicacion solo para complementarla un poquito mas, sirve para calcular tu indice de masa corporal (IMC) mediante tu peso y tu altura
+
+DETALLES EXTRA: 
+
+En la seccion de citas si quieres actualizar los datos de algun paciente bastara con pulsar/darle un click/tocar su recuadro para que se te despliegue abajo una mini ventana donde te apareceran todos los datos los cuales podras editar a tu antojo.
+
+Si deseas eliminar a algun paciente de la lista de citas lo podras hacer pulsando el icono de bote de basura que se encuentra al lado derecho de cada card del paciente. Se te preguntara una confirmacion para que puedes eliminarlo (siempre y cuando estes seguro de asi querer hacerlo).
